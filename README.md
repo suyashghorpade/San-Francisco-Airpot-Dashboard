@@ -5,6 +5,9 @@
 # Tableau Profile Link
 https://public.tableau.com/app/profile/suyash.ghorpade
 
+# Dashboard Image- 
+<img width="683" height="411" alt="image" src="https://github.com/user-attachments/assets/c9bf4f1e-dcb6-455b-9f66-a7799e4bb918" />
+
 
 ## 🎯 Objective of the Project
 - Analyze air traffic and operational performance at San Francisco International Airport.
